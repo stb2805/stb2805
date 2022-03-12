@@ -1,4 +1,4 @@
-### Hey everyone calls me Steven
+### Hey call me Steven!
 junior IT administrator
 
 #### Skills and Knowledge:
