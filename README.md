@@ -8,12 +8,8 @@ junior IT administrator
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> Linux Administration - Certified LPIC-1 Linux Administrator
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> Simple Python Programming
-  
-#### Goals 2022:
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> Learning Docker
-
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/1690403.png" alt="docker" width="20" height="20"/> </a> Learning Anisble
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/1690403.png" alt="docker" width="20" height="20"/> </a> Basic Anisble
 
 
 
